@@ -1,0 +1,33 @@
+# Virtual Environment
+voice_venv/
+
+# Dataset folders
+dataset/
+datasets/
+data/
+mywork/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.zip
+*.csv
